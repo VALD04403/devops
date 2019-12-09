@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p style={{ color: 'red' }}></p>
       </header>
     </div>
   );
